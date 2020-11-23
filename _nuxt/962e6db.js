@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{1192:function(n,t,e){"use strict";e.r(t);var c={name:"IdVue",data:function(){return{content:""}},mounted:function(){}},o=e(43),component=Object(o.a)(c,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n  这里是具体某个文章的页面\n")])}),[],!1,null,"0510cc98",null);t.default=component.exports}}]);
