@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{1190:function(n,t,e){"use strict";e.r(t);var c={name:"Admin",layout:"admin"},l=e(42),component=Object(l.a)(c,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("这里是管理员列表")])}),[],!1,null,"58c1b79c",null);t.default=component.exports}}]);
