@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{1189:function(n,e,t){"use strict";t.r(e);var c={name:"Index",layout:"admin"},l=t(42),component=Object(l.a)(c,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("这里是后台的首页，计划放一些统计数据，比如访问人数啥的")])}),[],!1,null,"d1862f38",null);e.default=component.exports}}]);
